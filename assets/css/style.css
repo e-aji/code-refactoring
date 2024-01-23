@@ -4,12 +4,12 @@
     margin: 0;
 }
 
-/*100% width to support responsiveness*/
-
 body {
     width: 100%;
     background-color: #d9dcd6;
 }
+
+/* Styles for header */
 
 .header {
     padding: 20px;
@@ -47,11 +47,14 @@ body {
     margin-left: 25px;
 }
 
+/* Stlye for links */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles for paragraph */
 p {
     font-size: 16px;
 }
@@ -90,6 +93,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* Grouping benefits sections together to consolidate code to make it easier to maintain*/
 
 .benefit-lead, .benefit-brand,.benefit-cost {
     margin-bottom: 32px;
@@ -106,6 +110,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Grouping hero sections together to consolidate code to make it easier to maintain*/
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -124,6 +130,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styles for footer*/
 
 .footer {
     padding: 30px;
