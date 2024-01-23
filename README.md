@@ -1,6 +1,6 @@
 # week-1-code-refactoring-challenge
 
-This task was to ---
+This repository contains a challenge ---
 
 ## User Story
 
