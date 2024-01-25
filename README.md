@@ -2,7 +2,7 @@
 
 # Description
 
-This challenge was to refactor a codebase to make it more accessible for all those who use the site whilst also optimising the webpage for serch engines without changing the content and design of the site. 
+This challenge was to refactor a codebase to make it more accessible for all those who use the site whilst also optimising the webpage for search engines without changing the content and design of the site. 
 
 ## User Story
 
@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 
 ## Changes Made
 
-The changes that were made to the codebase includes:
+The issues and subsequent changes that were made to the codebase includes:
 
 * The title of the webpage did not reflect the name of the company and was not desciptive. The title was changed to reflect the company name and what services they provide. 
 * The HTML tags were non-semantic with the use of the div tags being prevalent. To solve this, the non-semantic tags were changed to more semantic HTML tags e.g. header, footer etc.
