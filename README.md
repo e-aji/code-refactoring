@@ -43,7 +43,9 @@ The changes that were made to the codebase includes:
 
 add screenshot of page HERE!! 
 
-[Screenshot of Deployed Webpage](screenshot.png) - add image to repo root 
+[Screenshot of Deployed Webpage]
+
+(Horiseon - Marketing Agency.png) 
 
 # Links
 
