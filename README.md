@@ -41,12 +41,8 @@ The changes that were made to the codebase includes:
 
 # Image 
 
-add screenshot of page HERE!! 
-
 ![image](https://github.com/e-aji/week-1-code-refactoring-challenge/assets/156595423/394acb77-8f54-44af-a2b1-38a8bddd94ae)
-
-(Horiseon - Marketing Agency.png) 
 
 # Links
 
-links to deployed application 
+Link to deployed application - https://e-aji.github.io/week-1-code-refactoring-challenge/
