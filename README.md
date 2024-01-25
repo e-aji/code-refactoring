@@ -39,10 +39,10 @@ The changes that were made to the codebase includes:
 * The CSS code some elements were consolidated and cleaned up to make it easier to make changes to all of them at once (as they all had the same style rules). 
 * CSS code was changed to reflect the new semantic HTML tags so that the style rules made will still apply.  
 
-# Image 
+## Image 
 
 ![image](https://github.com/e-aji/week-1-code-refactoring-challenge/assets/156595423/394acb77-8f54-44af-a2b1-38a8bddd94ae)
 
-# Links
+## Links
 
 Link to deployed application - https://e-aji.github.io/week-1-code-refactoring-challenge/
