@@ -1,8 +1,8 @@
-# week-1-code-refactoring-challenge
+# Code Refactoring
 
 # Description
 
-This challenge was to refactor a codebase to make it more accessible for all those who use the site whilst also optimising the webpage for search engines without changing the content and design of the site. 
+This project was to refactor a codebase to make it more accessible for all those who use the site whilst also optimising the webpage for search engines without changing the content and design of the site. 
 
 ## User Story
 

@@ -21,6 +21,7 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+    background-color: #2589bd;
 }
 
 /* heading coloured differently for search engine optimisation */
